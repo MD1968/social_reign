@@ -1,0 +1,38 @@
+/* Prevent adjustments of font size after orientation changes in IE on Windows Phone and in iOS.  */
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+/*  apply a natural box layout model to all elements  */
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+// Styling for the body of the document
+
+h1 {
+    color: aqua;
+}
+
+
+// Styling for the header of the document
+
+
+
+
+// Styling for the body of the document
+
+
+
+
+// Styling for the Navigation of the document
+
+// end nav
+
+
+
+
+// Styling for the Footer of the document
